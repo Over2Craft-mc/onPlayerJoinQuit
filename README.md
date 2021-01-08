@@ -75,4 +75,4 @@ onPlayerEvent:
 `onPlayerJoinQuitReload` reload configuration
 
 ## Download
-https://github.com/Over2Craft-mc/onPlayerJoinQuit/raw/main/target/onWorldChange.jar
+https://github.com/Over2Craft-mc/onPlayerJoinQuit/raw/main/target/onPlayerJoinQuit.jar
