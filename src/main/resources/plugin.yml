@@ -1,0 +1,17 @@
+name: onPlayerJoinQuit
+version: 1.0
+author: Over2Craft
+main: com.over2craft.onPlayerJoinQuit.Main
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  onPlayerJoinQuitReload:
+    description: Reload onPlayerJoinQuit configuration
+    permission: over2craft.onPlayerJoinQuit.reload
+
+permissions:
+  over2craft.onPlayerJoinQuit.reload:
+    description: Allows onPlayerJoinQuit command
+    default: op
+
